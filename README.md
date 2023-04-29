@@ -7,7 +7,7 @@ pytest-bdd is a behavior-driven development (BDD) test framework for Python that
 
 ## Installation
 1. Clone this repository.
->git clone https://github.com/your_username/your_repository.git
+>git clone https://github.com/jodybarata000/SeleniumPython-pytest-bdd.git
 2. Install Pipenv.
 >pip install pipenv
 3. Install the dependencies from the Pipfile.
