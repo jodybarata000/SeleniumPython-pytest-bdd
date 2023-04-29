@@ -1,5 +1,9 @@
-# SeleniumPython-pytest-bdd
+# Selenium with Python and pytest-bdd
 
+## Overview
+Selenium is a popular open-source tool for automating web browsers. It allows developers to simulate user interaction with web pages by writing scripts in a variety of programming languages, including Python.
+
+pytest-bdd is a behavior-driven development (BDD) test framework for Python that allows developers to write tests in Gherkin syntax, which is a plain-text language that is easy to understand and maintain by non-technical stakeholders. pytest-bdd uses the power of the pytest testing framework to execute the tests and report the results.
 
 ## Installation
 1. Clone this repository.
